@@ -41,5 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 ## Contact
-
 For any questions, suggestions, or inquiries, please feel free to reach out to us at whoami_anoint@bugcrowdninja.com.
