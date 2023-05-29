@@ -40,9 +40,6 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 This project is licensed under the [MIT License](LICENSE).
 
 
-
-We extend our gratitude to the developers and contributors of these libraries.
-
 ## Contact
 
 For any questions, suggestions, or inquiries, please feel free to reach out to us at whoami_anoint@bugcrowdninja.com.
